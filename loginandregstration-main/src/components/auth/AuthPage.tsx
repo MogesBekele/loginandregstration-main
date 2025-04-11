@@ -49,6 +49,17 @@ export const AuthPage: React.FC = () => {
           </div>
         </div>
       </div>
+      {/* Learn More Section */}
+      <div className="bg-gray-50 py-8 px-4 text-center">
+        <h3 className="text-2xl font-semibold text-gray-800 mb-4">
+          Why Choose Us?
+        </h3>
+        <p className="text-gray-600 max-w-2xl mx-auto">
+          Our platform offers a seamless experience with cutting-edge features
+          designed to help you achieve your goals. Join us today and be part of
+          a growing community!
+        </p>
+      </div>
       {/* Footer */}
       <footer className="bg-gray-100 text-center py-4">
         <p className="text-gray-600 text-sm">
